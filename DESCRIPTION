@@ -1,9 +1,9 @@
 Package: montyhall
-Title: What the Package Does (One Line, Title Case)
+Title: Helps solve the montyhall game! 
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Ashley", "Wilkerson", , "arosenk2@asu.edu", role = c("aut", "cre"))
+Description: This package is meant to sun a simulation and see which door gives you a win or a lose more. This program was built during my tim ein paf515. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
